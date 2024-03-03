@@ -285,6 +285,7 @@ section {
 
 .about-pic {
     border-radius: 4rem;
+    margin-left: -12%;
 }
 
 .arrow {
@@ -386,7 +387,7 @@ article .icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    height: 75vh;
 }
 
 .contact-info-upper-container {
